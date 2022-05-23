@@ -16,9 +16,3 @@ pip install Pillow<br>
 python manage.py runserver<br>
 
 
-31 Django E Commerce Product Attributes Variants Amazon style Size Color #2 <br>
-32 Django E Commerce Access to functions from templates (Template Tags) <br>
-33 Django E Commerce Multi Language on static html files and Urls Part1 <br>
-34 Django E Commerce Multi Language on Database Models Part2 <br>
-35 Django E Commerce Multi Language on Category Tree Recursive Function Part3 <br>
-36 Django E Commerce Multi Currency <br>
